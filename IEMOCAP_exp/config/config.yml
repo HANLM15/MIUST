@@ -1,0 +1,22 @@
+exp:
+  seed: 53 # 97 # 2019
+  audio_dir: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/IEMOCAP_exp/emotion2vec_iemocap"
+  text_dir: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/IEMOCAP_exp/bert_iemocap_wordlevel"
+  iemocap_csv: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/IEMOCAP_exp/iemocap_csv"
+train:
+  batch_size: 128
+  optimizer: 
+    lr: 0.0005
+  epoch: 70
+
+model:
+  text_feat_dim: 768
+  audio_feat_dim: 768
+  hidden_dim: 128
+  num_classes: 4
+  num_heads: 2
+  num_layers: 2
+  direction: 2
+  hidden_size1: 128
+  hidden_size2: 128
+  attention_size: 4

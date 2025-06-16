@@ -1,0 +1,1109 @@
+Filename,Utterance,Emotion,Sentiment
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia0_utt0.wav,"Oh my God, hes lost it. Hes totally lost it.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia0_utt1.wav,What?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt0.wav,"Or! Or, we could go to the bank, close our accounts and cut them off at the source.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt1.wav,Youre a genius!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt2.wav,"Aww, man, now we wont be bank buddies!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt3.wav,"Now, theres two reasons.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt4.wav,Hey.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt5.wav,Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt6.wav,"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt7.wav,Where?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt8.wav,On the touchy.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt9.wav,And,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt10.wav,"No, I know!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt11.wav,"I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt12.wav,"Well, next time your massaging him, you should try and distract yourself.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt13.wav,Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt14.wav,"Thank you, Joey.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia1_utt15.wav,"No-no, thank you.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia2_utt0.wav,"Hey Estelle, listen",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia2_utt1.wav,Well! Well! Well! Joey Tribbiani! So you came back huh? They,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia2_utt2.wav,What are you talkin about? I never left you! Youve always been my agent!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia2_utt3.wav,Really?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia2_utt4.wav,Yeah!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia2_utt5.wav,"Oh well, no harm, no foul.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia3_utt0.wav,"Okay, you guys free tonight?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia3_utt1.wav,Yeah!!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia3_utt2.wav,Tonight? You-you didn't say it was going to be at nighttime.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt0.wav,Yes? Yes?! How can I help you?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt1.wav,"Yeah, we werewe were just looking around.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt2.wav,"Oh-oh, youre-youre fellow scholars.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt3.wav,"What exactly were you looking for, hmm?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt4.wav,"Perhaps,  perhaps Dr. Chester Stocks musings on the Smiledon Californicus?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt5.wav,Uhh.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt6.wav,"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt7.wav,"Uh, actually I find Marions views far too progressionist.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt8.wav,I find Marions views far too progressionist.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt9.wav,"Im sorry, who are you?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt10.wav,"Im a professor here uh, RossGeller.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt11.wav,"Ross Geller, why do I know that name? Its uhWait!  Did you write this?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt12.wav,Yes! Youre the person who checked out my book?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt13.wav,"Yknow, you look nothing like I wouldve thought. Youreyoure so young.",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia4_utt14.wav,"Well I uh, I skipped forth grade.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt0.wav,You had no right to tell me you ever had feelings for me.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt1.wav,What?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt2.wav,I was doing great with Julie before I found out about you.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt3.wav,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt4.wav,The point is I...,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt5.wav,"I don't need this right now, OK.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt6.wav,"It, it's too late, I'm with somebody else, I'm happy.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt7.wav,This ship has sailed.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt8.wav,"Alright, fine, you go ahead and you do that, alright Ross.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt9.wav,Fine.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt10.wav,Cause I don't need your stupid ship.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt11.wav,Good.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia5_utt12.wav,Good.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt0.wav,"Oh, it's so romantic to send people off on their honeymoon.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt1.wav,"Yknow, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt2.wav,All in good time my love.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt3.wav,All in good time.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt4.wav,Oh shoot!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt5.wav,I left my guitar in their apartment.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt6.wav,Well you can let me in later.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt7.wav,"I dont have a key, they took mine to give to you.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt8.wav,What?! They took mine to give to you!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia6_utt9.wav,Why would they take away our keys?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt0.wav,Wow! It looks like we got a lot of good stuff.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt1.wav,"Oh we did, but my mom got us the greatest gift of all.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt2.wav,A,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt3.wav,No. Shes going to live with us for eight weeks.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt4.wav,"Uh, what?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt5.wav,Yes! Shes gonna help us take care of the baby! Woo-hoo.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt6.wav,WhatYoure not serious.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt7.wav,"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt8.wav,Shell drive us totally crazy.,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt9.wav,Hi Ross!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia7_utt10.wav,Hi roomie!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt0.wav,Hey! What did you decide to do about the movie?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt1.wav,I dont know!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt2.wav,Its not like its porn!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt3.wav,"This is a serious, legitimate movie.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt4.wav,And the nudity is really important to the story.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt5.wav,Thats what you say about porn.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt6.wav,Youre right. Maybe I shouldnt even go on the call back.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt7.wav,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt8.wav,Well thats true.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt9.wav,And I am only naked in one scene.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt10.wav,Plus it sounds really great.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt11.wav,My characters catholic and he falls in love with this Jewish girl.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt12.wav,Who run away together and they get caught in this big rainstorm.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt13.wav,So we go into this barn and undress each other and hold each other.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia8_utt14.wav,Its really sweet and-and tender.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt0.wav,"Hey, whats up?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt1.wav,"Nothing, Monica and I had a stupid fight.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt2.wav,"But youre still moving in together, right? Because my ad came out today.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt3.wav,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt4.wav,Yeah?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt5.wav,"I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt6.wav,"Someone I can learn from, someone-someone whos different than me.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia9_utt7.wav,And whats more different than me. A guy whos,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt0.wav,So where are we going next?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt1.wav,This witness won't return my calls so we're gonna see if we can surprise him coming home.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt2.wav,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt3.wav,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt4.wav,It's a witness not a perp. And no one talks like that!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt5.wav,"Yeah, no one talks like that!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt6.wav,Oh what? Like your Mr. Cop!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt7.wav,"Hey, I'm more cop than you two!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt8.wav,How do you figure that?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia10_utt9.wav,"Hello! I'm in the front seat, okay? I'm Gary's partner!",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt0.wav,I guess so.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt1.wav,Here you go. Thank you!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt2.wav,"Wait, Rach! Where's the other one?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt3.wav,"Oh what, you-you want both of them?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt4.wav,"Rachel Karen Green, where's the other earring?!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt5.wav,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt6.wav,"I know it's in the apartment, but I",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt7.wav,"Well, what am I going to tell Monica? She wants to wear them tonight!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt8.wav,Tell her to wear her own earrings.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt9.wav,These,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt10.wav,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt11.wav,Why not?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia11_utt12.wav,Because I lose her stuff!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia12_utt0.wav,"Uh Phoebe, can I see you for a second?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia12_utt1.wav,Yeah!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia12_utt2.wav,Whats going on?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia12_utt3.wav,Chandlers gone again!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia12_utt4.wav,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt0.wav,Okay. You ready to push again?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt1.wav,I already had a baby. Leave me alone.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt2.wav,"Okay, okay, come on, you can do it. You can do it!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt3.wav,Yeah!!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt4.wav,Little Leslie is here!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt5.wav,We got another one!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt6.wav,"Oh my God, I can't believe I have two-two children.",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt7.wav,How scary is that?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt8.wav,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt9.wav,"All right, he's coming. He's coming!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt10.wav,"Hey, where's his thing?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt11.wav,Chandler's a girl!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt12.wav,"Oh God, kindergarten flashback.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt13.wav,They musta read the sonogram wrong.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt14.wav,"Cause they, 'cause they thought it was a boy, but Chandler's a girl!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt15.wav,Chandler's a girl!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt16.wav,"Okay, keep saying it!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt17.wav,Am I too late?!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt18.wav,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt19.wav,We have our babies?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt20.wav,Yeah.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia13_utt21.wav,"Oh, we have our babies.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt0.wav,Hey Toby!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt1.wav,Hey Bobby.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt2.wav,"Its Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt3.wav,"Uhh yeah. Yeah, its  right, right down there.  Right there, yeah. Can I ask you why?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt4.wav,"I want to talk to that bastard, see what his problem is.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt5.wav,"Okay Bob listen uhh, Im the reason you didnt get the job up here.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt6.wav,Toby dont.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt7.wav,Bob!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia14_utt8.wav,Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt0.wav,Thank you.  Oh Joey and look at this crib! Its so cute!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt1.wav,I know! I found it on the street.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt2.wav,Are you seriousReally?! Its in such good condition.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt3.wav,Yeah.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt4.wav,Wow! Whoa-whoa whats under the covers?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt5.wav,I dont know.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt6.wav,Its moving.,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt7.wav,Ew.,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt8.wav,Its stillIts got a tail! Get it out of here! Get it out of here!!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia15_utt9.wav,Ooh! Ah! Okay!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt0.wav,"Well, I went over to Kyles last night to pick up a few things and we got to reminiscing",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt1.wav,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt2.wav,Oh just say it Kyle!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt3.wav,Were gonna give it another try.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt4.wav,What about her whining and her constant need for attention?!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt5.wav,Im gonna work on that.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt6.wav,"Oh right, because youre so capable of change.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt7.wav,"Yknow, he hums when he pees!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt8.wav,I do know.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt9.wav,"It makes him miss the bowl, but whatever.",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt10.wav,Were so sorry.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt11.wav,"Thats all right, we-we dont need you. In fact, hey Im over it already.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt12.wav,"Yeah, and yknow what? I dont give a tiny rats ass.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt13.wav,"Yeah, were gonna go.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt14.wav,"Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt15.wav,"Oh. Yknow, he hums while he does other stuff to.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt16.wav,"Yeah, we're better off without them.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt17.wav,"And yknow, even if they break up again, youd better not let him in your sad mens club!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia16_utt18.wav,Divorced mens club.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia17_utt0.wav,Why isnt that valet back with my Porsche?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia17_utt1.wav,Maybe because youve got the keys?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia17_utt2.wav,This is totally your fault!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia17_utt3.wav,My fault?! You threatened the judge!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia17_utt4.wav,"Well, you ripped the paper out of the court reporters machine!!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt0.wav,Phoebe!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt1.wav,Yeah?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt2.wav,Have you seen Chandler?!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt3.wav,No! Why?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt4.wav,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt5.wav,I know!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt6.wav,How bad is this?,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt7.wav,"Well for the regular guy, its bad, but Chandler, Oh dear God!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt8.wav,I know! I know! And he totally freaked out and I cant find him anywhere!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt9.wav,What are you gonna do?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt10.wav,"Well, Im never gonna listen to you again, thats for sure!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt11.wav,"""Yknow, harm can it do if you go and put your name down?""",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt12.wav,Rachel said that!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia18_utt13.wav,Well Rachels not here!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt0.wav,"Come on, come on.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt1.wav,"Damnit, damnit, damnit, damnit.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt2.wav,This is all your fault.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt3.wav,"This is supposed to be, like, the greatest day of my life, y'know?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt4.wav,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt5.wav,The woman I love is having a baby today. I've been waiting for this just as much as you have.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt6.wav,"No no no, believe me.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt7.wav,"No one has been waiting for this as much as I have, ok?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt8.wav,And you know what the funny thing is?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt9.wav,"When this day is over, you get to go home with the baby, ok?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt10.wav,Where does that leave me?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt11.wav,You get to be the baby's father.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt12.wav,Everyone knows who you are.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt13.wav,Who am I?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt14.wav,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt15.wav,Every day is Lesbian Lover Day.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt16.wav,This is so great.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt17.wav,You wanna explain that?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt18.wav,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt19.wav,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt20.wav,And it's not even born yet.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt21.wav,"It's just, it's just the luckiest baby in the whole world.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia19_utt22.wav,"I'm sorry, you were fighting.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt0.wav,"Okay, it's a typical New York City apartment. Two girls are just hanging out.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt1.wav,"Hi, how are you doing Kelly?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt2.wav,"I'm doing just fine! God, Tiffany, you smell so great!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt3.wav,It's my new perfume. Why don't you come closer where you can,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt4.wav,"Oh, y'know Joey, you are sick!",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt5.wav,This is disgusting!,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt6.wav,I'm not reading this!,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia20_utt7.wav,What?! Wait-wait-wait! The handsome man was about to enter!!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt0.wav,"All right, I'll give you this, Mr. Peanut is a better dresser.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt1.wav,"I mean he's got the monocle, he's got the top hat...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt2.wav,You know he's gay?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt3.wav,I just wanna clarify this: are you outing Mr. Peanut?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt4.wav,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt5.wav,Hi. Hi.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia21_utt6.wav,What are you doing here?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt0.wav,"Well, what?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt1.wav,What?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt2.wav,What is it?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt3.wav,That she left you?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt4.wav,That she likes women?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt5.wav,That she left you for another woman that likes women?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt6.wav,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt7.wav,Then what?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt8.wav,My first time with Carol was...,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt9.wav,What?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt10.wav,It was my,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt11.wav,With Carol?  Oh.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt12.wav,"So in your whole life, you've only been with oneoh.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia22_utt13.wav,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt0.wav,Hi. Where is everybody?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt1.wav,"Oh, its already closed, Chris gave me the keys to lock up-what is wrong?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt2.wav,"My marriage, I think my marriage is um, is kinda over.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt3.wav,Oh no! Why?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt4.wav,"Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt5.wav,"Oh my God! I dont believe it! Oh, you poor bunny.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt6.wav,Im an idiot.,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt7.wav,"I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt8.wav,"Aw! Hey, do you think that Susan person is her lover?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt9.wav,"Well, now I do!!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt10.wav,Im sorry.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt11.wav,Seven years.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt12.wav,"I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia23_utt13.wav,"Aw, God Ross. Oh.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt0.wav,Ill do it.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt1.wav,No you wont.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt2.wav,"Look he knows he did a terrible thing and I believe him, hes sorry.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt3.wav,"But,  youve got one more apology to make, all right, youve got to apologize to Mary-Angela.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt4.wav,"Okay, absolutely!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt5.wav,All right.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt6.wav,Youve got it.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt7.wav,"Cookie, now you can punch him!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia24_utt8.wav,What?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia25_utt0.wav,"All right, that's it, I quit.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia25_utt1.wav,What? I didn't say anything.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia25_utt2.wav,"Yeah, but this  isn't the face of a person who trusts a person.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia25_utt3.wav,"Ok, this  is the face of a person who, you know, doesn't trust a person.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia25_utt4.wav,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia25_utt5.wav,Would you relax? I know what I am doing. This is how he wears it.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt0.wav,Julie.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt1.wav,What?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt2.wav,Jody!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt3.wav,You were with Julie?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt4.wav,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt5.wav,"And then, one thing led to another and, before I knew it, we were...shopping.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt6.wav,Oh. Oh my God.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt7.wav,"Honey, wait. We only did it once. It didn't mean anything to me.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt8.wav,"Yeah, right.  Sure!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt9.wav,"Really, Rachel, I was thinking of you the whole time.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt10.wav,"Look, I'm sorry, all right.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt11.wav,I never meant for you to find out!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt12.wav,"Oh, please, you wanted to get caught.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt13.wav,That is not true!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt14.wav,"Oh, so you just sort of happened to leave it in here?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt15.wav,Did it ever occur to you that I might just be that stupid?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia26_utt16.wav,"Ok, Monica. I just have to know one thing. Did you go with her to",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt0.wav,Yeah!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt1.wav,I cant say.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt2.wav,Why?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt3.wav,Why not?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt4.wav,I cant say because hes famous.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt5.wav,"Oh my God, who is it?!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt6.wav,"Phoebe, come on, you have to tell us.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt7.wav,"Okay, okay. Its James Brolin. James Brolin is the father of my baby.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt8.wav,As in Barbara Streisands husband James Brolin?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia27_utt9.wav,What?! Well he never said that to me!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt0.wav,In,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt1.wav,"Oh, this life! Oh okay no, Chandler's is worse.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt2.wav,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt3.wav,Of course you don't sweetie. You're brand new.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt4.wav,I know Monica's worst Thanksgiving.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt5.wav,"Oh, let's not tell this story.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt6.wav,"Oh, come on!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt7.wav,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt8.wav,What?! Joey got a turkey stuck on his head?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt9.wav,"Hey, it's not like it sounds.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia28_utt10.wav,It's,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt0.wav,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt1.wav,Who was that?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt2.wav,Wendy bailed. I have no waitress.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt3.wav,Oh... that's too bad. Bye bye.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt4.wav,Ten dollars an hour.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt5.wav,No.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt6.wav,Twelve dollars an hour.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt7.wav,"Mon. I wish I could, but I've made plans to walk around.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt8.wav,"You know, Rachel, when you ran out of your wedding, I was there for you.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt9.wav,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia29_utt10.wav,Done.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt0.wav,"The reactors gonna blow in three seconds, were never gonna make it!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt1.wav,Youve got to get out of here! Save yourself!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt2.wav,No! I wont leave you!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt3.wav,"Dont worry about me, Im a robot! Im just a machine!!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt4.wav,No youre not! Not to me!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt5.wav,Oh my God.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt6.wav,What?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt7.wav,I am,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt8.wav,"Yeah, youre great! Okay, lets take it from",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt9.wav,"No, I mean I was really acting my ass off.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt10.wav,"Yeah, I thought I was pretty good too.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt11.wav,"Oh yeah, youre solid. Yeah, youre just no me.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt12.wav,Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt13.wav,Fine!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt14.wav,Ill do it without you!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt15.wav,I dont need you or anybody else!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt16.wav,Im gonna make it on my own!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt17.wav,Youll see!!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia30_utt18.wav,Youll,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt0.wav,I can't believe that Ross is gone. It is just so sad.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt1.wav,I didn't know Ross and you were so close.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt2.wav,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt3.wav,I'm sure that would mean a lot to him.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt4.wav,"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt5.wav,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt6.wav,But you didn't!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt7.wav,I'm still alive!!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt8.wav,"Kori, I know this is a big surprise for you.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt9.wav,It's a long story but the things    you just said really made my day!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt10.wav,"I mean, the fact that you are here means more    to me than if this room were filled with people!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt11.wav,"You sick freak, who does that? I can't believe I had a crush on    you!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia31_utt12.wav,Did you hear that? Kori Weston had a crush on me!!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt0.wav,Well do a quick check.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt1.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt2.wav,"So, eight days late huh?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt3.wav,Yeah.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt4.wav,You must be a little uncomfortable.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt5.wav,"Eh, just a tad.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt6.wav,"Youre about 80 percent effaced, so youre on your way.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt7.wav,It still could last a little while longer.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt8.wav,If youre anxious there are a few ways to help things along.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt9.wav,Do them!!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt10.wav,"Actually, theyre things you can do. Just some home remedies, but in my experience Ive found that some of them are quite effective.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt11.wav,"Well, we are ready to try anything.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt12.wav,"Okay, theres an herbal tea you can drink.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia32_utt13.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia33_utt0.wav,What is wrong with Emma?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia33_utt1.wav,"Oh she misunderstood, she thought she was moving to Tulsa.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt0.wav,Anytime you're ready.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt1.wav,"Ok, ok, here we go.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt2.wav,"Ok, where am I talking to, here?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt3.wav,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt4.wav,Just aim for the bump.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt5.wav,"Ok, ok, ok, ok, here goes.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt6.wav,"You know, I, you know, can't do this.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt7.wav,"Uh, this is too weird.",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt8.wav,I feel stupid.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt9.wav,"So don't do it, it's fine. You don't have to do it just because Susan does it.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia34_utt10.wav,"Hello, baby. Hello, hello.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia35_utt0.wav,"Oh, hi. Its Mark.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt0.wav,Easy. Easy. You have to go to the hospital. Okay?,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt1.wav,"Okay, I do.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt2.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt3.wav,I really do.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt4.wav,"Okay, Im gonna get your coat and then Ill-Ill put you in a cab.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt5.wav,"Okay. Oh wait, wait-wait, youre not gonna come with me?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt6.wav,Of course I am. I just have to make a call.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt7.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt8.wav,Okay?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt9.wav,Thank you.  Oww!!!! God!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt10.wav,"What?! I wh-, whats wrong?",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia36_utt11.wav,"Im sorry, I just cant go to the hospital lookin like this.",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt0.wav,"Pete Becker is circling the ring now. It looks like, hes just trying to feel him out. Oh, Bruiser is just...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt1.wav,"Run! Run you crazy, rich freak!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt2.wav,"Oh, I cant watch this.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt3.wav,"Check it out, hes winning!  Petes winning!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt4.wav,Really?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt5.wav,No-o-o!!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt6.wav,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt7.wav,Oh! Oh!,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt8.wav,"Wait, if thats his favourite area, why is he being so mean to it?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt9.wav,"Well, this is ironic.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia37_utt10.wav,"Of your last two boyfriends, Richard didnt want to have kids, and from the looks of it, now Pete cant.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia38_utt0.wav,"Dude, you dont have to brag! We got nothing here!!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia39_utt0.wav,Should we tell Rachel theres an empty private room right next door to hers?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia39_utt1.wav,"We could, or we can have sex in it.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia39_utt2.wav,"Well let me think about that, while I remove my pants!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt0.wav,I thought I was a complete idiot.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt1.wav,"Hey, Im with you. He even asked me if I thought youd go out with him.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt2.wav,"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt3.wav,I said no.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt4.wav,What?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt5.wav,What? II just figured since youre pregnant youre not gonna be seeing people.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt6.wav,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt7.wav,I didnt tell him. I didnt know if you were telling people. This is back when I thought Kash was still people.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt8.wav,"Good-good, dont tell him. Dont tell him. Just have him call me okay?",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt9.wav,"Rach look, I really dont think thats such a great",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia40_utt10.wav,"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia41_utt0.wav,"Ohh, here you are. I was looking for you before. Joshuas gone so you and Emily are free to go.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia41_utt1.wav,Thats okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia41_utt2.wav,"Shes still in there enjoying her fake party and uh, its too late to do any of the things I had planned, so",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia42_utt0.wav,Ah! Ah! I forgot my jacket!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia42_utt1.wav,You tell them to wait!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia42_utt2.wav,Okay. Wait! Wait!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia42_utt3.wav,Emily.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia42_utt4.wav,Oh no-no-no! Oh-no!  No! No! Emily!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia43_utt0.wav,Hey. Call me when you get there. Okay?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia43_utt1.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt0.wav,I know. You're the guy who wouldn't chip in for the handyman.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt1.wav,Nevermind!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt2.wav,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt3.wav,Jen.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt4.wav,"Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt5.wav,Sure! That would be nice.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt6.wav,Umm?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt7.wav,Oh! My number is on there.  Give me a call.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt8.wav,I will give you a call.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt9.wav,I'll see you later.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt10.wav,Okay!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia44_utt11.wav,I forgot my paper.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt0.wav,"Here we go. Okay, brace yourselves.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt1.wav,What?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt2.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt3.wav,Ow!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt4.wav,Arent you gonna go?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt5.wav,No. Thank you.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt6.wav,"No, Rachel never pees in public restrooms.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt7.wav,"Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.  Well, if everybodys going.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt8.wav,"No, y'know what dont close it  cause the... keys...are in there.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt9.wav,"Oh, no-no-no-no-no-no!!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt10.wav,Whats going on?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia45_utt11.wav,My lighters in there!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt0.wav,I promise.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt1.wav,"Although, dont feel like you cant visit.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt2.wav,"Hey, is, is, is Chandler here?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt3.wav,"No, no hes not.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt4.wav,"You guys, Joey just saw Janice kissing her ex-husband.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt5.wav,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt6.wav,"Well, I was thinking about that and I, I think the best way would be, to not.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt7.wav,"Joey, you cant keep this to yourself, if you know about this, you have to tell him.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt8.wav,"Itll kill him. I mean itll, itll just kill him.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia46_utt9.wav,"Well, you could wait til I go to the dentist, maybe",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt0.wav,"Hey, what are you doing here?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt1.wav,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt2.wav,"Ah yeah, but now its Susan and me in Mexico and the hostages coming home.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt3.wav,Wheres Ben?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt4.wav,Hes sleeping.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt5.wav,"Ahh.  Ooh, is this a ah, is this a bad time?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt6.wav,"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt7.wav,"Oh! I thought you guys got married in uh, January?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt8.wav,Its not that kind of anniversary.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt9.wav,Ah!  Oh.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia47_utt10.wav,Sooo!! Anyway...,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt0.wav,Where are we gonna find a tiny little hat?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt1.wav,"Oh, oh, oh, Ill get Rainy Day Bear!!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt2.wav,"Because hell know what to do?  Oh my God, youre a genius!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt3.wav,"Oh God, oh God, its sowed on though.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt4.wav,Give it. Give it.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt5.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt6.wav,Oh!!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia48_utt7.wav,"Oh, its just like a bloodbath in here today.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt0.wav,Please. This is so your fault.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt1.wav,"How, how is this my fault?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt2.wav,"Look, Carol never threw me out of a room before you came along.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt3.wav,"Yeah? Well, there's a lot of things Carol never did before I came along.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt6.wav,"Hey, hey, ok, all right, that's it!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt7.wav,Get in here.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt8.wav,Come on.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt9.wav,"My god, you guys, I don't believe you.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt10.wav,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt11.wav,"So just stop all the yelling, just stop it!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt12.wav,"Yeah, Susan.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt13.wav,"Don't make me do this again, I don't like my voice like this.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia49_utt14.wav,"Ok, who wants to hear something ironic?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia50_utt0.wav,"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?""",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia50_utt1.wav,I didnt do that! Who wouldve done that?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia50_utt2.wav,Son of a bitch!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia50_utt3.wav,"Okay, maybe ask this guy.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt0.wav,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt1.wav,"Yknow sometimes the good ideas are just right in front of you, arent they?",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt2.wav,"Okay, I know it sounds crazy, but I think it might work. Yknow? The only problem is, Carls acting is",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt3.wav,The,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt4.wav,"Yeah, hes the reason I didnt get that big",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt5.wav,"Hey, uh can I get a little piece of that cake?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia51_utt6.wav,Pizza!! We like Pizza!! Get out!!!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia52_utt0.wav,"Hey Monica, theres a customer who wants to complement the chef, should I let him in?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia52_utt1.wav,"Sure, I love this part!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia52_utt2.wav,Come on in.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt0.wav,"Really? In the moment, I really wanted to kiss you too. In the moment.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt1.wav,"In the moment, yeah.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt2.wav,But only in the moment. So do ya wanna kiss again?,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt3.wav,"Sure, New Years Eve is only two weeks away. Can you wait?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt4.wav,No.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt5.wav,Me neither.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt6.wav,"3, 2,",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt7.wav,"Joey, you dont have to count down every time we kiss.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia53_utt8.wav,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt0.wav,Alright. Phoebe?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt1.wav,"Okay, okay.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt2.wav,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt3.wav,"Yeah, see.. you took mine. Chandler, what about you?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt4.wav,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt5.wav,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt6.wav,"Hey Joey. Hi. Hey, buddy.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt7.wav,"Hey, Joey, what would you do if you were omnipotent?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt8.wav,Probably kill myself!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt9.wav,..Excuse me?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt10.wav,"Hey, if Little Joey's dead, then I got no reason to live!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt11.wav,"Joey, uh-",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia54_utt12.wav,You,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia55_utt0.wav,Im sorry.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt0.wav,"Joey, onstage!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt1.wav,Well can you at least stay to the end of the play?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt2.wav,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt3.wav,Where are you Vic?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt4.wav,Flights in an hour. I-I gotta go.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt5.wav,Vic! Vic!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt6.wav,In a minute!!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt7.wav,So this is it? Victor?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt8.wav,"Yeah, I guess it is.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt9.wav,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt10.wav,"One thing you gotta know, is that I will never forget you.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt11.wav,"But, youve got things you have to do now, and so do I.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt12.wav,"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt13.wav,"But when I return, 200 years from now, youll be long gone.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt14.wav,But I wont have aged at all.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt15.wav,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, Im gonna want to meet her.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia56_utt16.wav,"So long, Vic!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt0.wav,Nooo Way! The most romantic song ever is,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt1.wav,"See, I-I think that one that Elton John wrote for, um, that guy on",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt2.wav,"What song was that, Pheebs?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt3.wav,Hi Monica!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt4.wav,Hey Mon!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt5.wav,Hey Mon!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt6.wav,"Oh my God, has she slept at all?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt7.wav,Nope.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt8.wav,"No, it's been three nights in a row.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt9.wav,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt10.wav,"Oh, okay that explains it.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt11.wav,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia57_utt12.wav,But then I realized where would a mouse or a opossum get the money to make the phone call.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt0.wav,"So uh, man, are you gonna go to the play with me tonight?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt1.wav,"Yknow what, I dont know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt2.wav,"Yeah, I know but",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt3.wav,"Oh no-no-no, Im there.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt4.wav,Hey!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt5.wav,Hey Mon! Want some pancakes?,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt6.wav,You made pancakes?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt7.wav,Yep! Grab a plate.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt8.wav,"No-no, stay right there.  Gettin closer.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt9.wav,"Okay, okay, but dont worry, because we also have cereals, muffins, waffles,",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt10.wav,"Listen also were uh, were watching the game here Saturday night, if people want to come over.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia58_utt11.wav,Oh yeah!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia59_utt0.wav,"Yes, if the foxhole was lined with sandwiches.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia59_utt1.wav,"Yeah, hero sandwiches.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia59_utt2.wav,Well you all know that I'm a pacifist so I'm not interested in war in any way.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia59_utt3.wav,"When the revolution comes, I will have to destroy you all.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia59_utt4.wav,Not you Joey.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt0.wav,Oh my good God.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt1.wav,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt2.wav,"Look, you have done enough! Okay? You have to stop this now.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt3.wav,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt4.wav,"Oh, the mixed tape.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt5.wav,The Way You Look Tonight,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia60_utt6.wav,You are just the sweetest.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia61_utt0.wav,Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia61_utt1.wav,Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia61_utt2.wav,"Hey, guess what Im doing tonight.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia61_utt3.wav,What?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia61_utt4.wav,Im checking out the restaurant with Pete.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia61_utt5.wav,"Ohh, Monica, I am so excited for you.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia62_utt0.wav,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia62_utt1.wav,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia62_utt2.wav,"Oh.  Wow!  Huh.  Boy!  Well, someones been doing their homework.",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia62_utt3.wav,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia62_utt4.wav,"Oh, I know.  Yknow, just-just talking about it is getting me kinda",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia62_utt5.wav,"Oh, me too.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt0.wav,"and then, we couldve gone from the ceremony to the reception with you in the sidecar!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt1.wav,"Ross, it just wouldnt have been feasible.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt2.wav,But having a dove place the ring on your finger wouldve been no problem?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt3.wav,It was really fun being married to you tonight.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt4.wav,"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt5.wav,"Okay Ross, can I uh, can I ask you something?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt6.wav,Yeah.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt7.wav,"That proposal, at the planetarium",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt8.wav,"I know, I know it was stupid.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt9.wav,Are you kidding?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt10.wav,"With the, with the lilies, and-and the song, and the stars!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt11.wav,It wasreally wonderful!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt12.wav,Did you just make that up?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt13.wav,"No, actually I thought about it when, when we were going out.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt14.wav,"Its how I imagined I uh, I would ask you to marry me.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt15.wav,"Well, that wouldve been very hard to say no too.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt16.wav,"Its a good thing I didnt do it, because it sounds like it wouldve been a very expensive wedding.  Okay, good night",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt17.wav,Goodnight,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt18.wav,Even if the sidecar had a windscreen so your hair wouldnt get messed up?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt19.wav,I will think about it.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia63_utt20.wav,Thats all Im askin,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia64_utt0.wav,"You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldnt feel bad!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia64_utt1.wav,"Well actually, I-I didnt eat mine. Its still in the bathroom.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia64_utt2.wav,"No it isnt, I ate that.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia64_utt3.wav,Well we left ours in Monicas bedroom.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia64_utt4.wav,"Nope, got it and I got yours  too.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt0.wav,And thats Im so glad theres no problem.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt1.wav,"Thats fine, actually Im on the hiring committee, so therell be at least one friendly face.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt2.wav,Ohh! Thats great!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt3.wav,"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt4.wav,Really?!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt5.wav,No-ho-ho!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt6.wav,Yeah.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt7.wav,"I mean, no-no-no-no-no, dont you worry, Im sure with your qualifications you wont need to sleep with some guy to get that job.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt8.wav,"Although, I might need some convincing.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt9.wav,"Well, I, umm",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia65_utt10.wav,"Kidding! God, I feel wild today!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt0.wav,Oh my God! Chandler just left though!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt1.wav,"Yeah but, maybe its not what we think. Maybe its tell Monica Im sorry Idrank the last of the milk.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt2.wav,"Or maybe he-he was writing to tell her that-that hes changed his name, yknow? Tell Monica Im sorry.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt3.wav,I think it means he freaked out and left!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt4.wav,Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt5.wav,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt6.wav,"LookOkay, Im just gonnaIm gonna have to go find him and bring him back!",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt7.wav,Okay?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt8.wav,"You-you make sure Monica does not find out, okay?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia66_utt11.wav,"I will, I will find him.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt0.wav,Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt1.wav,Hi! Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt2.wav,Do you guys know any cute guys?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt3.wav,"Well, of course I do! My good friend Joey over here.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt4.wav,"Oh, Im sorry. Thank you Chandler.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt5.wav,"Anyway, theres this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt6.wav,Whats the charity?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt7.wav,"I dont know, something either trees or diseaseRalph mumbles a lot.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt8.wav,Does Ralph mumble when youre not paying attention?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt9.wav,Yeah! Its weird. But the thing is need to find a date.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia67_utt10.wav,"Well, what kind of guy are you looking for?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt0.wav,Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt1.wav,What are you guys doing later?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt2.wav,"Oh, Rachel and I have appointments to get our hair cut.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt3.wav,We do?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt4.wav,I want to see what he wants first.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt5.wav,I just found out that Elizabeths dad wants to meet me.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt6.wav,"Wait a minute, hold the phone! Youre not Elizabeths dad?!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt7.wav,"Come on guys, I-I really want this guy to like me.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt8.wav,It-it would really help me out if you guys were here to make me look good.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt9.wav,Of course well help! Yeah! Well be here!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt10.wav,Thanks!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia68_utt11.wav,We know how tough those parent/teacher conferences can be.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt0.wav,"Oh, hi! How are you doing?",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt1.wav,I'm okay. I gotta go down to the police station and look at mug shots.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt2.wav,"Thanks for having me over, you guys.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt3.wav,Tag?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt4.wav,Y-You're going?,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt5.wav,"Uh we didn't, uh we didn't get the chance to talk.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt6.wav,"Uh, so, where did you say you're from again?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt7.wav,Colorado.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt8.wav,"Ah, what good are you.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt9.wav,"Look, um, I think we should talk about what happened on the terrace.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt10.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt11.wav,"Ah, I-I never should have said what I said.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt12.wav,Ityknow what?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt13.wav,It just doesn't matter how I feel.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt14.wav,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt15.wav,"Um, I'm not.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt16.wav,"Oh, god, I knew it, that I freaked you out.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt17.wav,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt18.wav,Really?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia69_utt19.wav,"Yeah, so, please don't fire me for doing this.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia70_utt0.wav,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia70_utt1.wav,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia70_utt2.wav,Pass it! Pass it!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia70_utt3.wav,He's open!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia70_utt4.wav,Shoot! Shoot! Shoot!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia70_utt5.wav,"Hey, look, we're on that TV thing!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia71_utt0.wav,I am so psyched I kept this chair for myself!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia71_utt1.wav,"Yeah, me too.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia71_utt2.wav,"Yeah? Wow! Yknow, that this thing has speakers in the headrest!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia71_utt3.wav,No. Really?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia71_utt4.wav,Yeah! You can hook it up to your TV,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia71_utt5.wav,My chair heals itself.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt0.wav,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt1.wav,"Yes! Yes, I did.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt2.wav,Then do Iceberg!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt3.wav,G-sharp.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt4.wav,G,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt5.wav,What?! I didn't touch a guitar!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt6.wav,"No, but you're questioning my method!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt7.wav,"No, I'm not questioning it, I'm saying it's stupid!  What?!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt8.wav,Thank you.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt9.wav,Y'know none of my other student thought I was stupid.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt10.wav,"Your other student, was you!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt11.wav,"Yeah, well, y'know maybe you just need to try a little harder!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt12.wav,"Look, maybe I need to try a real teacher!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt13.wav,Right here!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt14.wav,Here!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt15.wav,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt16.wav,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt17.wav,"""Baddest man in the whole damn town.""",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia72_utt18.wav,"Oh, fine! Take his side!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia73_utt0.wav,"And shame on you! You should know better, Joey needs to work.  Now come on!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia73_utt1.wav,Hey!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia73_utt2.wav,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt0.wav,Hi!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt1.wav,Hi.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt2.wav,"Hi.  Umm, I think theres something that we really need to talk about.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt3.wav,"I think we do. Why dont we go inside?  Look uh, I know why youre here.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt4.wav,You do?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt5.wav,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt6.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt7.wav,"Okay.  Uh, Ross and Rachel. Rachel and Ross. Thats been one heck of a see-saw hasnt it?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt8.wav,What?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt9.wav,"I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt10.wav,Seriously. What?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt11.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt12.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt13.wav,Yknow what?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt14.wav,"If you want to, we can do it one more time.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt15.wav,I mean Id-Id be okay with that.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt16.wav,"In fact, I have some time right now.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt17.wav,"Okay, yknow what? Can I, can I talk now?",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt18.wav,Oh sure.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia74_utt19.wav,"Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia75_utt0.wav,We should defiantly play football more often. Maybe theres a like league we could join or something.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt0.wav,I know!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt1.wav,"Yes! Wow, well, that-that was easy. Okay, you-you go.",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt2.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt3.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt4.wav,"Okay, you know, you know when your in bed, with a woman.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt5.wav,Hmph.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt6.wav,"And, ah, you know, your fooling around with her.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt7.wav,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt8.wav,"With the belly-button ring? Oh, muhawa!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt9.wav,"I know, And then all of the sudden your Mom pops into your head.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt10.wav,"And your like 'Mom, get outta here!'",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt11.wav,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt12.wav,"So it's kinda like, you're, you know.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt13.wav,You know.... You don't know!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt14.wav,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt15.wav,You said...,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia76_utt16.wav,I said ',neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt0.wav,Oh!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt1.wav,Look at Emma!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt2.wav,"I just cant decide who she looks more alike, you or Rachel?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt3.wav,"Oh what are you kidding? Shes gorgeous, its all Rachel.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt4.wav,"Im sorry, for the last time, why arent you two together again?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt5.wav,"No, I know.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt6.wav,"I know, because youre not in that place.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt7.wav,"Which would be fine, except you totally are.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt8.wav,Itsits complicated okay?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt9.wav,"Yeah thats true. Yeah, you love her. You always have. You have a child together. There is no right answer.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt10.wav,"Look, weve been together.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt11.wav,Okay?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt12.wav,"And then apart, and then together, and then apart, and now we have a baby.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt13.wav,Its just if-if we got together again and it didnt work outI could never do that to Emma.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt14.wav,I mean she-she thinking everything Oh thatsnow me.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt15.wav,What do they put something in the water in this place?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt16.wav,"Since Rachel and I were doing really, were doing really well right now.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt17.wav,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt18.wav,"Yeah, exactly.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia77_utt19.wav,Right.  Or you might get everything youve wanted since you were fifteen.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt0.wav,God. I forgot how much I love driving. I have,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt1.wav,You dont have a,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt2.wav,"Oh Ross youre so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt3.wav,What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt4.wav,"I am not horsing around, okay? I am Porsching around.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt5.wav,Uh-oh.,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt6.wav,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt7.wav,Really? You think so?,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia78_utt8.wav,I was talking to myself! Youre going down!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt0.wav,Hey honey! I missed you today!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt1.wav,"Oh, yeah?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt2.wav,Yeah.  What d'you wanna do tonight?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt3.wav,"Oh, well... Maybe we could...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt4.wav,"Ok, trying to turn me on by making a mess?",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt5.wav,Know your audience!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt6.wav,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt7.wav,We really need to take those tests?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt8.wav,"Honey, we've been trying to have a baby for over a year.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt9.wav,I think    it's a good idea to find out if everything's ok. Just a few routine tests.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia79_utt10.wav,But I don't wanna do it in a cup!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt0.wav,"Oh, hi Max! Hey, do you know everybody?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt1.wav,No. Have you seen David?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt2.wav,"No, no, he hasn't been around.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt3.wav,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt4.wav,Minsk?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt5.wav,Minsk. It's in Russia.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt6.wav,I know where Minsk is.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt7.wav,"We got the grant. Three years, all expenses paid.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt8.wav,"So when, when do you leave?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia80_utt9.wav,January first,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia81_utt0.wav,You wanted to see me Professor Geller?,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia81_utt1.wav,"Yes. Yes! Please, come in.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia81_utt2.wav,Oo-oo!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt0.wav,Pretty great! Except I did get a little attitude from the robot.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt1.wav,"Damn those robots, theyre supposed to be our",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt2.wav,"Anyway, it wasnt the robot, it was the guy who controls him.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt3.wav,"Yeah, he doesnt like me.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt4.wav,He had C.H.E.E.S.E.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt5.wav,knock over the sandwich right when I was reaching for one!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt6.wav,Ohh!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt7.wav,"Well, why dont you just get him fired?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt8.wav,"I may have to, I hate to do it, but Im the star!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt9.wav,Yknow?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt10.wav,Theres a limit to how many sandwiches I can eat off the floor.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt11.wav,Excuse me.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt12.wav,Joey Tribbiani.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt13.wav,"Joe! Im glad I found ya, I got an audition for ya!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt14.wav,Wow!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt15.wav,The thing is its kinda on the Q.T.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt16.wav,The actor who has the part doesnt know he might be fired.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt17.wav,"Its the lead in a series, Mac and C.H.E.E.S.E.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia82_utt18.wav,Im the lead in Mac and C.H.E.E.S.E.!!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt0.wav,Oh good God! If you want a baby so bad just go steal it!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt1.wav,What is going on with you? Since when are you so crazy about babies?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt2.wav,Im not crazy about babies. Im crazy about us.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt3.wav,What?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt4.wav,"Look, weve always talked about having babies someday.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt5.wav,"Im not saying it has to be right now, but Im starting to think that we can handle it.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt6.wav,Were good.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia83_utt7.wav,Were really good.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt0.wav,"Oh, did you catch him?!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt1.wav,Wh-what did he say?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt2.wav,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt3.wav,Why?! Why not?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt4.wav,"Come on, you saw the way he ran out of here!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt5.wav,He's gonna stick around and talk to the daughter he abandoned!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt6.wav,What did you say to him?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia84_utt7.wav,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt0.wav,"Oh yeah, sure.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt1.wav,"Okay, in about ten seconds youre gonna see him kiss me.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt2.wav,And in about five seconds youre gonna see why.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt3.wav,Ross did I ever tell you about the time that I went backpacking through Western Europe?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt4.wav,"Okay, get ready to see some beggin!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt5.wav,"Oh, you came on to Ross!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt6.wav,What?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt7.wav,Now Im so happy.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt8.wav,What are you talking about?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt9.wav,You used the Europe story!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt10.wav,Thats the magic story you use when you wanna have sex!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt11.wav,How do you know about that story?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt12.wav,How do,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt13.wav,I heard it from my friend Irene who heard it from some guy!,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt14.wav,Some guy!!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt15.wav,"No. No, she told me his name was Ken Adams.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia85_utt16.wav,Ken Adams!!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia86_utt0.wav,"How we doing, you guys ready?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia86_utt1.wav,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia86_utt2.wav,Some days it's all I can think about.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia86_utt3.wav,"Hi, sorry I'm late, I couldn't find my bearings.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia87_utt0.wav,"Oh... ok, fine.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia87_utt1.wav,But... ehm...,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia87_utt2.wav,"I just have one question for you,    ehm...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia87_utt3.wav,"When we exit should we walk, or run, or prance,    or stroll...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia87_utt4.wav,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia88_utt0.wav,I cant believe this! How long as this been going on?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia88_utt1.wav,"Well umm, Alexandra has been",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia88_utt2.wav,"Oh, it has a name?",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia88_utt3.wav,"Phoebe, dont get upset!",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia88_utt4.wav,OkayOop! Too late! Im leaving! Come on Chandler lets go!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia88_utt5.wav,"Well, Phoebe I thought IdYeah, what the hell.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt0.wav,Ben!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt1.wav,"Oh, that's good. Maybe he'll hear you and pull the cord.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt2.wav,Stop the bus! Wait! Wait! Wait!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt3.wav,Are you sure he didn't break it because it really hurts?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt4.wav,"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt5.wav,"Oh, I'm sorry, I'm really sorry.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt6.wav,Sorry.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt7.wav,Sorry!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt8.wav,I got my s's back!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt9.wav,Which we can celebrate later.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia89_utt10.wav,Celebrate.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt0.wav,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt1.wav,"Rachel, how did this happen?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt2.wav,"I don't know, I just kinda ran into him last night.",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt3.wav,Where?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt4.wav,At his apartment. Is this juice?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt5.wav,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia90_utt6.wav,"Oh God, I know I'm a pathetic loser.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt0.wav,"I licked my arm, what?",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt1.wav,It's breast milk.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt2.wav,So?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt3.wav,"Phoebe, that is juice, squeezed from a person.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt4.wav,What is the big deal?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt5.wav,What did you just do?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt6.wav,"Ok, would people stop drinking the breast milk?",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt7.wav,You won't even taste it?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt8.wav,No!,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt9.wav,Not even if you just pretend that it's milk?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia91_utt10.wav,Not even if Carol's breast had a picture of a missing child on it.,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt0.wav,Aww!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt1.wav,"Hey Pheebs, could you please not put your feet up on my newold sheet?",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt2.wav,Oh sure!  Noo!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt3.wav,Ohh!!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt4.wav,My apothecary table!!!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt5.wav,What?!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt6.wav,Noooooo!!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt7.wav,"Ross, where did you get this?!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt8.wav,"Oh my God, Phoebe,",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt9.wav,"Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt10.wav,Well this doesnt even smell like opium.,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia92_utt11.wav,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt0.wav,How is she?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt1.wav,"It's too soon to tell. She's resting, which is a good sign.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt2.wav,How's the hair?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt3.wav,"I'm not gonna lie to you, Ross, it doesn't look good.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt4.wav,"I put a clip on one side, which seems to have stopped the curling.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt5.wav,Can we see her?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt6.wav,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia93_utt7.wav,How're you doing?,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt0.wav,Of course the packaging does appeal to grown-ups and kids alike.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt1.wav,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt2.wav,That would be no.,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt3.wav,Come on. It doesn't taste bad.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt4.wav,"Yeah, it's kinda sweet, sorta like, uh...",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt5.wav,Cantaloupe juice.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt6.wav,Exactly.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt7.wav,You've tasted it? You've tasted it.,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt8.wav,Uh huh.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt9.wav,"Oh, you've tasted it.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt10.wav,"You can keep saying it, but it won't stop being true.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia94_utt11.wav,Gimme the bottle.  Gimme the towel.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt0.wav,I still don't get why Greg and Jenny would give us a fake number.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt1.wav,"Yknow, if they knew what they were doing they probably didnt give you real names either.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt2.wav,"Okay, maybe people give out fake numbers, but they dont give out fake names.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt3.wav,"Oh yeah?  Hi, Ken Adams, nice to meet you.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt4.wav,Regina Philange.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt5.wav,"I still dont get it, we didnt do anything wrong.",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt6.wav,"I know! Although, you did tell an awful lot of jokes.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt7.wav,I thought you said those jokes were funny. Joke! Joke! Joke!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt8.wav,Joke. Joke. Blah! Blah!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt9.wav,Well maybe it was all of your questions.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia95_utt10.wav,What about my questions?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia96_utt0.wav,"No, Im sorry. Its just my foot itches like crazy.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia96_utt1.wav,"Oh, Ill get it.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia96_utt2.wav,Wow! I usually get to know a girl a little better before I let her spoon me.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia96_utt3.wav,"Relax, its not like were forking.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt0.wav,"Look at it! Ohhh! Wallpapers a little faded, thats okay. Carpets a little loose. Hardwood floors!!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt1.wav,Hey!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt2.wav,Hello.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt3.wav,Oh! Ooh! Oh Monica! Its so beautiful.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt4.wav,I know!!!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt5.wav,"So, Im here, ready to play.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt6.wav,Okay.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt7.wav,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt8.wav,Whats this?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt9.wav,"Thats a dog, every house should have a dog.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt10.wav,Not one that can pee on the roof.,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt11.wav,"Well, maybe its so big because the house was built on radioactive waste.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt12.wav,And is this in case the house sneezes?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt13.wav,"No, no, thats the ghost for the attic.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt14.wav,I dont want a ghost.,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt15.wav,"Well, nobody wants a ghost. But youve got one, because the house is sitting on an ancient Indian burial ground.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt16.wav,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt17.wav,"Okay, obviously you dont know much about the U.S. government.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt18.wav,Hey!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt19.wav,Hello.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt20.wav,I need to talk to you!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia97_utt21.wav,"Sure, whats up?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia98_utt0.wav,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia98_utt1.wav,"Please, I'm not going for anything.",disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia98_utt2.wav,"Well, if you don't, I will.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia98_utt3.wav,Would you please go?,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia98_utt4.wav,I would!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt0.wav,"Hey, guys, guys, did you see my new, china cabinet?!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt1.wav,Uh-huh.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt2.wav,"Watch, watch.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt3.wav,Ooohhhh!!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt4.wav,"And, and!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt5.wav,Ahhhh!!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt6.wav,"Hey, my Fathers house does that!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt7.wav,"O-o-o-okay, how did it go? Tell me everything.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia99_utt8.wav,"Well, the movie was great, dinner was great, and theres nothing like a cool, crisp New York evening.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia100_utt0.wav,Okay. Its Emma.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia101_utt0.wav,Emma!  See? I dont want it.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia102_utt0.wav,Take it.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia102_utt1.wav,What?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia103_utt0.wav,Its clearly an Emma.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia103_utt1.wav,"Oh honey, but you love that name.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia103_utt2.wav,"Yeah, but I love you more.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia103_utt3.wav,"Besides yknow, nothing goes with Bing.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia103_utt4.wav,So Im screwed.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt0.wav,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt1.wav,Nice try.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt2.wav,"Wait, wait, wait!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt3.wav,"Look, Monica",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt4.wav,Look!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt5.wav,This is not going to work.,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt6.wav,I bet this will work!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt7.wav,You are so great! I love you!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt8.wav,What?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt9.wav,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt10.wav,You said you loved me! I can't believe this!,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt11.wav,No I didn't!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt12.wav,"Yes, you did!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt13.wav,No I didn't!,fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt14.wav,You love me!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia104_utt15.wav,No I don't! Stop it! Stop it! Stop it! Stop it!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt0.wav,Hello Greg?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt1.wav,"Hi, this is Monica from the plane?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt2.wav,"Listen, the number that you gave me 853-5   That is their old number!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt3.wav,Jennys been giving it out since they moved!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt4.wav,Jenny! That is so Jenny!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt5.wav,"Hey listen umm, how would you like to get together?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt6.wav,Say next Saturday?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt7.wav,"Okay, how about Sunday?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt8.wav,"Okay umm, the week after that?",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt9.wav,The week after that?,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt10.wav,Yknow what Greg?,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia105_utt11.wav,"We are good, interesting, funny people with",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia106_utt0.wav,Hey Chandler! Yknow that girl you went to college with who-who became a movie director?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia106_utt1.wav,"Oh yeah, Dana Keystone. She was in my Movement class.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia106_utt2.wav,Whats a Movement class?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia106_utt3.wav,Its Chandlers way of pretending he didnt take mime.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia106_utt4.wav,"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia106_utt5.wav,"Oh, I dont know man. I havent talked to her in like ten years.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia107_utt0.wav,I am.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia107_utt1.wav,"Joey, what are you talking about? Youre a terrific actor.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia107_utt2.wav,You really think so?,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia107_utt3.wav,"Ugh, how can you even ask that question?!",surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt0.wav,Ross! Get a shot of this. (He's carrying an issue of the,surprise,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt1.wav,"Oh, okay, I'm having another one!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt2.wav,"This one doesn't hurt eitherOoh, yes it does!",surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt3.wav,Ow!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt4.wav,Ow!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt5.wav,Ow!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt6.wav,Ow!,anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt7.wav,Ooh!,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt8.wav,"Oh, I was kinda hoping that was it.",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt9.wav,"Hey, where are Monica and Rachel anyway?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt10.wav,"Yeah, I love you. Okay, bye!  Hi!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt11.wav,Hi!,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt12.wav,"That was Alice's mom, she said she left five hours ago. She should be here by now!",fear,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt13.wav,"Oh, honey, dont worry. She's gonna make it on time.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia108_utt14.wav,Yeah.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt0.wav,I guess I set up the video camera to try and entice Joey.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt1.wav,But sadly I could not be enticed.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt2.wav,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,disgust,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt3.wav,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt4.wav,"Well, I think we've all learned something about who's disgusting and who's not.",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt5.wav,Eh?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt6.wav,"All right, now, I'm going to get back to my bucket.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia109_utt7.wav,"I'm only eating the skin, so the chicken's up for grabs.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt0.wav,"Ohh, okay, they gave you the old time pricing.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt1.wav,Yeah.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt2.wav,"Well, what period is it from?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt3.wav,"Uh, its from yore. Like the days of yore. Yknow?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt4.wav,"Yes, yes I do.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt5.wav,"God, oh its just perfect!",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt6.wav,I bet it has a great story behind it too.,joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt8.wav,"Yes! That I know, this is from White Plains.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia110_utt9.wav,"White Plains. Oh, it sounds like such a magical place.",joy,positive
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia111_utt0.wav,"So, you still dont think Im boyfriend material?",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia111_utt1.wav,Huh?,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia111_utt2.wav,I saw you checking me out during the game last night.,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia112_utt0.wav,"I, umm, shut up!",anger,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia112_utt1.wav,Good-bye Phoebe and Ursula. Ill miss you. P.S. Your Mom lives in Montauk. You just wrote this!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia112_utt2.wav,"Well, its pretty much the gist. Well, except for the poem. You read the poem, right?",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia112_utt3.wav,Noooo!!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia112_utt4.wav,"All right, hang on!",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt0.wav,"Rachel, its going to happen. Chandler is gonna move in here.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt1.wav,But I,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt2.wav,"No-no, wait!",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt3.wav,"Just let me finish, okay?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt4.wav,"This isnt something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt5.wav,And it,neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt6.wav,It is? Really?,surprise,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt7.wav,"Yeah, sweetie.",neutral,neutral
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt8.wav,"I mean were not, were not gonna live together anymore?",sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt9.wav,No.,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt10.wav,What? Oh my God! Im gonna miss you so much!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt11.wav,Im gonna miss you!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt12.wav,I mean its the end of an era!,sadness,negative
+/mnt/cxh10/database/hanlm/emotion2vec/MELD_exp/MELD_wav/dev_splits_complete/dia113_utt13.wav,I know!,sadness,negative

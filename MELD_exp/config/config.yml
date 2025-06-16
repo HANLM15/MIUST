@@ -1,0 +1,26 @@
+exp:
+  seed: 53 #131   
+  audio_dir: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/MELD_exp/emotion2vec_meld_framelevel"
+  text_dir: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/MELD_exp/bert_meld_wordlevel"
+  train_csv: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/MELD_exp/meld_csv/train.csv"
+  dev_csv: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/MELD_exp/meld_csv/dev.csv"
+  test_csv: "/mnt/cxh10/database/hanlm/emotion2vec/MIUST/MELD_exp/meld_csv/test.csv"
+
+train:
+  batch_size: 256
+  optimizer: 
+    lr: 0.0005
+  epoch: 40
+
+model:
+  text_feat_dim: 768
+  audio_feat_dim: 768
+  hidden_dim: 256
+  num_classes: 7
+  num_heads: 2
+  dropout: 0.3
+  num_layers: 2
+  direction: 2
+  hidden_size1: 128
+  hidden_size2: 128
+  attention_size: 4
