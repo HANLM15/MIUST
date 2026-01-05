@@ -97,14 +97,14 @@ def train_one_fold_frame( logger,save_dir,fold,model, train_loader, val_loader,t
             
             optimizer.zero_grad()
             output,outa1, outa2,outa11,outa22,outs,outt= model(text_feat, audio_feat)
-            MSE = nn.MSELoss()
+            # MSE = nn.MSELoss()
             cmd_loss_fn1 = CMDLoss(K=5)
             cmd_loss_fn2 = CMDLoss(K=5)
             loss_ts = cmd_loss_fn1(outa1, outa22)
             loss_st = cmd_loss_fn2(outa2, outa11)
             loss_p = F.cross_entropy( output, labels )
-            loss_st = MSE(outa1, outa22)
-            loss_ts = MSE(outa2, outa11)
+            # loss_st = MSE(outa1, outa22)
+            # loss_ts = MSE(outa2, outa11)
             loss_s = F.cross_entropy(outs, labels)
             loss_t = F.cross_entropy(outt, labels)
             loss = 0.1*loss_p + 0.3*loss_st + 0.3*loss_ts + 0.15*loss_s + 0.15*loss_t
